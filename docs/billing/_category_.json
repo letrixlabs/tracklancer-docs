@@ -1,0 +1,8 @@
+{
+    "label": "Billing",
+    "position": 4,
+    "link": {
+        "type": "generated-index",
+        "description": "These docs explain everything about how billing works on Tracklancer. This is not documentation for billing your clients."
+    }
+}
