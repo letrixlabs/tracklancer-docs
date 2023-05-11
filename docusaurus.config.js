@@ -80,6 +80,24 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'KXO38RJ04P',
+
+        // Public API key: it is safe to commit it
+        apiKey: '570e4af08325836d80f0e56d848046b1',
+
+        indexName: 'TRACKLANCER_DOCS',
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        externalUrlRegex: 'tracklancer\\.io|letrixlabs\\.com',
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+      },
     }),
 };
 
