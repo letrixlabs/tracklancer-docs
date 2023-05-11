@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
-  "position": 2,
+  "label": "Tracklancer API (TRAPI)",
+  "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "These docs explain how our API works along with a list of all the endpoints."
   }
 }
