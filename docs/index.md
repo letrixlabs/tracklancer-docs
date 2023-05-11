@@ -1,0 +1,15 @@
+---
+sidebar_position: 0
+---
+
+# Tracklancer Documentation
+
+Our documentation offers comprehensive guidance on using Tracklancer, including a detailed explanation of how the 
+Tracklancer API operates, along with a list of all the endpoints. Should you notice any missing information or have any 
+suggestions, please share them with us via our public roadmap. Our team will work to incorporate them promptly.
+
+## Require further assistance?
+
+- Contact our support team via email on hello@letrixlabs.com.
+- Open a [live chat](https://tracklancer.io/support) with us.
+- Ask our community in the [Letrix Labs Discord](https://letrixlabs.com/discord) server.
