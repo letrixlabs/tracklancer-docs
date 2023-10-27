@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "@cloudflare/next-on-pages": "^1.7.2",
+    "@flydotio/dockerfile": "^0.4.10",
     "@types/node": "18.11.10",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
