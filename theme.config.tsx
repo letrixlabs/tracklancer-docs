@@ -10,6 +10,9 @@ const config: DocsThemeConfig = {
     link: 'https://discord.com',
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  feedback: {
+    content: null,
+  },
   banner: {
     dismissible: false,
     key: 'banner-1',
