@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "tracklancer-docs",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Documentation site for Tracklancer.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/letrixlabs/tracklancer-docs.git"
   },
   "author": "Shu Ding <g@shud.in>",
   "license": "MIT",
